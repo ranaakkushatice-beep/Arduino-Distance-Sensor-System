@@ -14,3 +14,4 @@ The system calculates the distance of an object in front of the sensor. If the d
 1. Open `distance_sensor.ino` in Arduino IDE.
 2. Connect your components as defined in the code pins.
 3. Upload to your Arduino board.
+![Devre Şeması](devre_semasi.png)
